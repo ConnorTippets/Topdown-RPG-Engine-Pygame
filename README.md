@@ -1,6 +1,6 @@
 # Topdown RPG Engine Pygame
 A Topdown RPG-like game engine made in Pygame\
-Loaded with default levels\
+Loaded with default levels
 
 ## Use
 `main.py` is the main file that runs the entire game engine.\
